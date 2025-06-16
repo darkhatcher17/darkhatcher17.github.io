@@ -16,7 +16,7 @@ Welcome to the official website of **Comoving Cosmopolitans**, where we explore 
 
 | ![Member 1](https://via.placeholder.com/150) | ![Member 2](https://via.placeholder.com/150) | ![Member 3](https://via.placeholder.com/150) |
 |:--:|:--:|:--:|
-| **Dr. Aayush Randeep** <br> Principal Investigator | **John Doe** <br> PhD Scholar | **Jane Smith** <br> MSc Student |
+| **Dr. Rajib Saha** <br> Associate Professor | **John Doe** <br> PhD Scholar | **Jane Smith** <br> MSc Student |
 
 > _We are a multidisciplinary team passionate about advancing knowledge in [field/domain]._
 
