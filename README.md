@@ -1,8 +1,7 @@
-# darkhatcher17.github.io
 
-# 🧪 [Your Research Group Name]
+# 🧪 Comoving Cosmopolitans
 
-Welcome to the official website of **[Your Research Group Name]**, where we explore cutting-edge research in [brief research domain like theoretical physics, machine learning, etc.].
+Welcome to the official website of **Comoving Cosmopolitans**, where we explore cutting-edge research in [brief research domain like theoretical physics, machine learning, etc.].
 
 ---
 
